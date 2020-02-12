@@ -1,4 +1,4 @@
 # Simple site
-### Practive with GitHub
+### Practice with GitHub
 
 A simple site to practice with bootstrap
